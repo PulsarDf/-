@@ -1,0 +1,7 @@
+﻿  PriorityQueue.cpp
+C:\Users\570VovaN075\source\repos\куча\куча\PriorityQueue.cpp(32,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\570VovaN075\source\repos\куча\куча\PriorityQueue.cpp(36,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\570VovaN075\source\repos\куча\куча\PriorityQueue.cpp(132,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\570VovaN075\source\repos\куча\куча\PriorityQueue.cpp(140,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\570VovaN075\source\repos\куча\куча\PriorityQueue.cpp(113): warning C4715: PriorityQueue::top: значение возвращается не при всех путях выполнения
+  куча.vcxproj -> C:\Users\570VovaN075\source\repos\куча\Debug\куча.exe
